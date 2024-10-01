@@ -1,1 +1,2 @@
-# E444_F2024_PRA3
+# Badri Widaatalla
+This repository is a tutorial from https://github.com/shuruizUofT/flaskr-tdd
